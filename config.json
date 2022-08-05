@@ -1,9 +1,9 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "ownerNum": "6285921165857",
-  "botName": "Hitomi MD",
-  "footer": "© Hitomi MD 2022",
+  "ownerNumber": ["6281223163244@s.whatsapp.net"],
+  "ownerName": ["Hangga"],
+  "ownerNum": "6281223163244",
+  "botName": "Gogots Bot MD",
+  "footer": "© GOGOTS MOD 2022",
   "fake": "Bot By Christian ID",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
@@ -21,13 +21,13 @@
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
-  "ButtonMenuLink1": "https://youtube.com/c/ChristianID99",
-  "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
+  "ButtonMenuLink1": "https://youtube.com/channel/UCSqtTBWsYLGLd1ObFDmrMCA",
+  "ButtonMenuLink2": "https://youtube.com/channel/UCSqtTBWsYLGLd1ObFDmrMCA",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
   "displayTextMenu5": "rating",
   
-  "QrisAllPay": "https://i.ibb.co/f2h3MDQ/Qris.jpg",
+  "Saweria": "https://saweria.co/gogotsmod",
   "textBarisDonate1": "DANA : SCAN QRIS DIATAS",
   "textBarisDonate2": "OVO : SCAN QRIS DIATAS",
   "textBarisDonate3": "GOPAY : SCAN QRIS DIATAS",
@@ -37,8 +37,8 @@
   "welcomenya": "Intro Dulu Yuk Kak\n\n\n📛 Nama : \n🔞 Umur :\n🏙️ Askot :\n👫 Gender :\n\nSemoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada",
   "leavenya": "Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿",
   
-  "gamewaktu": 60,
-  "limitCount": 15,
+  "gamewaktu": 30,
+  "limitCount": 5,
   "gcount": {
 	"prem": 99999,
 	"user": 20
